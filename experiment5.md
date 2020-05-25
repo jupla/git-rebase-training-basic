@@ -17,8 +17,7 @@ TuR: Tomcat Aufbau
 <div id="toc" />
 
 Hier beschreibe ich, wie ein Tomcat Aufbau E-Umgebung zu erfolgen hat.     
-Detailbeschreibung mit viel mehr Details findest du [hier (puppet4-tomcat-aufbau-detailbeschreibung.md)](puppet4-tomcat-aufbau-detailbeschreibung.md)  
-Weiterführende Informationen zum Tomcat Aufbau findest du [hier (puppet4-tomcat-aufbau-erweiterung.md)](puppet4-tomcat-aufbau-erweiterung.md)
+Es erfolgt eine ausführliche Beschreibung des Tomcat Aufbaus.    
 
 <!-- TEASER_END -->
 
@@ -49,7 +48,7 @@ Tomcat Aufbau
 * puppet_hiera ist ausgecheckt im Verzeichnis "projects/puppet/puppet_hiera"
 
 
-### Kurzbeschreibung der Aktionen
+### Kurzbeschreibung der Aktionen - wird wohl besser werden     
 
 
 #### Anpassungen im Puppet4 Repository puppet_site   
