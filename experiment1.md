@@ -43,19 +43,13 @@ Tomcat Aufbau
 
 ## Ablauf
 
-### Voraussetzungen
-
-* puppet_site ist ausgecheckt im Verzeichnis "projects/puppet/puppet_site"
-* puppet_hiera ist ausgecheckt im Verzeichnis "projects/puppet/puppet_hiera"
-
 
 ### Kurzbeschreibung der Aktionen
 
 
 #### Anpassungen im Puppet4 Repository puppet_site   
 
-Zum Einlesen der Properties werden die entsprechenden Klassen im feature branch *puppet_site*
-implementiert.    
+Zum Einlesen der Properties werden die entsprechenden Klassen im feature branch *puppet_site* implementiert.         
 
 1. Wechsel zum Verzeichnis puppet_site    
 2. Puppet4 Repository puppet_site -> Branch anlegen    
