@@ -17,8 +17,7 @@ TuR: Tomcat Aufbau
 <div id="toc" />
 
 Hier beschreibe ich, wie ein Tomcat Aufbau E-Umgebung zu erfolgen hat.     
-Detailbeschreibung mit viel mehr Details findest du [hier (puppet4-tomcat-aufbau-detailbeschreibung.md)](puppet4-tomcat-aufbau-detailbeschreibung.md)  
-Weiterführende Informationen zum Tomcat Aufbau findest du [hier (puppet4-tomcat-aufbau-erweiterung.md)](puppet4-tomcat-aufbau-erweiterung.md)
+
 
 <!-- TEASER_END -->
 
@@ -32,7 +31,7 @@ es existiert bereits mindestens 1 Tomcat auf dem Server.
 Tomcat Aufbau
 -------------
 
-## Beispiel: TuR Tomcat Aufbau
+## Beispiel: TuR Tomcat Aufbau - wird sehr schön
 
 **Aufgabe:** Tomcat turmasterdata analog turqpp auf dezuepagap099 aufbauen
 
