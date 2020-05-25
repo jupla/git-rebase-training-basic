@@ -22,14 +22,8 @@ Weiterführende Informationen zum Tomcat Aufbau findest du [hier (puppet4-tomcat
 
 <!-- TEASER_END -->
 
-Voraussetzung
---------------
 
-Server ist aufgesetzt (inkl. Apache) und 
-es existiert bereits mindestens 1 Tomcat auf dem Server.
-
-
-Tomcat Aufbau
+Tomcat Aufbau - für TuR - mal sehn    
 -------------
 
 ## Beispiel: TuR Tomcat Aufbau
@@ -61,7 +55,7 @@ Tomcat Aufbau
 4. Anpassen der Profile yaml-Datei für Tomcat turmasterdata -> puppet_hiera/profile/tur/     
    Als Basis die Datei "turqpp.yaml" verwenden und den Text "turqpp" durch "turmasterdata" ersetzen -> Datei "turmasterdata.yaml"      
    `judith@blackvaio:~/projects/puppet/puppet_hiera/profile/tur$ sed -e "s/turqpp/turmasterdata/g" ./turqpp.yaml > ./turmasterdata.yaml`    
-5. Änderungen in Git einchecken   
+5. Änderungen in Git einchecken und später wieder rausnehmen  
 6. Wechsel auf Freeway Server  -> https://freeway.porsche.org/webapp/puppet_hiera -> Anmelden   
 7. Projects -> puppet_hiera -> Merge Requests -> individuellen Branch aus Liste auswählen   
 8. Merge nach **development**  -> Merge Request erstellen (Create Merge Request)
