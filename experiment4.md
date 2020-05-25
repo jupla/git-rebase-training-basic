@@ -21,7 +21,7 @@ Hier beschreibe ich, wie ein Tomcat Aufbau E-Umgebung zu erfolgen hat.
 
 <!-- TEASER_END -->
 
-Voraussetzung
+Voraussetzung Änderung erfolgt im Master
 --------------
 
 Server ist aufgesetzt (inkl. Apache) und 
@@ -56,7 +56,7 @@ Tomcat Aufbau
 Zum Einlesen der Properties werden die entsprechenden Klassen im feature branch *puppet_site*
 implementiert.    
 
-1. Wechsel zum Verzeichnis puppet_site    
+1. Wechsel zum Verzeichnis puppet_site  - sieht gut aus  
 2. Puppet4 Repository puppet_site -> Branch anlegen    
    Individuellen Branch anlegen. Hierzu zuerst auf Branch *production* wechseln.   
    **ACHTUNG:** Branch für puppet_site muss immer von "origin/production" abzweigen.    
