@@ -25,7 +25,7 @@ Weiterführende Informationen zum Tomcat Aufbau findest du [hier (puppet4-tomcat
 Voraussetzung
 --------------
 
-Server ist aufgesetzt (inkl. Apache) und 
+Server ist aufgesetzt (inkl. Apache) und hier kommt der völlig überflüssige Text.
 es existiert bereits mindestens 1 Tomcat auf dem Server.
 
 
@@ -52,7 +52,7 @@ Tomcat Aufbau
 ### Kurzbeschreibung der Aktionen
 
 
-#### Anpassungen im Puppet4 Repository puppet_site   
+#### Anpassungen im Puppet4 Repository puppet_site - Änderung erfolgt auch hier  
 
 Zum Einlesen der Properties werden die entsprechenden Klassen im feature branch *puppet_site*
 implementiert.    
