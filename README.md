@@ -1,23 +1,23 @@
-Training: Git-Rebase (fortgeschritten)
-======================================
+Training: Git-Rebase (grundlegend)
+==================================
 
-Bitte führe dieses Training erst durch, wenn die
-"Git-Rebase (grundlegend)" durchgeführt hast!
+Dies ist das grundlegende Training zu Git-Rebase.
+Es dient dazu, dass Du Erfahrungen im Umgang mit
+Git-Rebase sammelst.
 
 Voraussetzungen
 ---------------
 
-* "Git-Rebase (grundlegend)" ist durchgeführt und wird
-  inhaltlich beherrscht!
-
 * Git-Kommandozeilen-Tools sind installiert
-
-* Meld ist installiert (`sudo apt-get install meld`)
 
 * Gitg ist installiert (`sudo apt-get install gitg`)
 
 * Fork von diesem Repo ist angelegt, Arbeit erfolgt nur an
   diesem Fork
+
+* Du hast einen lokalen Clone vom Fork (`git clone (fork-url)` mit "(fork-url)" von oben rechts)
+
+* Dein Arbeitsverzeichnis ist im lokalen Clone
 
 Ausgangsituation
 ----------------
@@ -28,6 +28,7 @@ Ausgangsituation
 - ... und auch den Branch "experiment"
 - "experiment" wurde irgendwann in der Vergangenheit erzeugt,
   er zweigt in der Vergangenheit vom Master-Branch ab
+- Die Ausgangssituation kannst Du visualisieren mit `gitg master origin/experiment`
 
 Zielbild
 --------
@@ -41,6 +42,14 @@ Zielbild
 
 Ablauf
 ------
+
+Nachkontrolle
+-------------
+
+- Visualisiere die Situation mit `gitg master origin/master experiment origin/experiment`
+- Kontrolliere, ob "master" und "origin/master" übereinstimmen!
+- Kontrolliere, ob "experiment" und "origin/experiment" übereinstimmen!
+- Vergleiche Dein Bild strukturell mit [images/final.png](images/final.png)
 
 Abschluß
 --------
