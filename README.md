@@ -64,7 +64,7 @@ Ablauf
 Nachkontrolle
 -------------
 
-- Visualisiere die Situation  [Wie?](cheat-sheet/cheat-sheet.md#0210)
+- Visualisiere die Situation [Wie?](cheat-sheet/cheat-sheet.md#0210)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
 - Kontrolliere, ob "experiment" und "origin/experiment" übereinstimmen!
 - Vergleiche Dein Bild strukturell mit [images/final.png](images/final.png)

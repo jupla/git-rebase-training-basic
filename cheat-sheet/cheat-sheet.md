@@ -29,11 +29,15 @@ $ gitg master origin/master experiment origin/experiment
 
 #### 0110
 
+Branch "experiment" auschecken
+
 ```
 $ git checkout experiment
 ```
 
 #### 0120
+
+Branch "experiment" aktualisieren
 
 ```
 $ git pull --rebase
@@ -41,11 +45,15 @@ $ git pull --rebase
 
 #### 0130
 
+Rebase durchführen
+
 ```
 $ git rebase master
 ```
 
 #### 0140
+
+Sichten
 
 ```
 $ gitg master experiment
@@ -53,6 +61,8 @@ $ git status
 ```
 
 #### 0150
+
+Ergebnis "veröffentlichen"
 
 ```
 $ git push ...
@@ -62,6 +72,8 @@ Nachkontrolle
 -------------
 
 #### 0210
+
+Visualisiere die Situation
 
 ```
 $ gitg master origin/master experiment origin/experiment
