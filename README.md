@@ -53,6 +53,9 @@ Ablauf
 
 ### Vorbereitungen
 
+- Öffne dieses Dokument in Firefox mit `firefox index.html`,
+  damit Du direkten Zugriff auf die "cheat sheets" bekommen kannst
+  (Chrome geht nicht, Browsen via Github o.ä. geht nicht)
 - Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind [Wie?](cheat-sheet/cheat-sheet.md#0010)
 - Visualisiere die Situation [Wie?](cheat-sheet/cheat-sheet.md#0020)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
