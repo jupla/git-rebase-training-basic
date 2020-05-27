@@ -10,12 +10,14 @@ Voraussetzungen
 
 Seitens der "Infrastruktur" gibt es diese Voraussetzungen:
 
+* Firefox ist installiert (Chrome geht nicht)
 * Git-Kommandozeilen-Tools sind installiert
 * Gitg ist installiert (`sudo apt-get install gitg`)
 * Fork von diesem Repo ist angelegt, Arbeit erfolgt nur an
   diesem Fork
 * Du hast einen lokalen Clone vom Fork (`git clone (fork-url)` mit "(fork-url)" von oben rechts)
 * Dein Arbeitsverzeichnis ist im lokalen Clone
+* Diese Anleitung kann in Firefox gesichtet werden: `firefox index.html`
 
 Seitens der Kenntnisse:
 
