@@ -15,10 +15,10 @@ Seitens der "Infrastruktur" gibt es diese Voraussetzungen:
 
 * Firefox ist installiert (Chrome geht nicht)
 * Git-Kommandozeilen-Tools sind installiert
-* Gitg ist installiert [Wie?](cheat-sheet/cheat-sheet.md#0900)
+* Gitg ist installiert [Hilfe](cheat-sheet/cheat-sheet.md#0900)
 * Fork von diesem Repo ist angelegt, Arbeit erfolgt nur an
   diesem Fork
-* Du hast einen lokalen Clone vom Fork [Wie?](cheat-sheet/cheat-sheet.md#0900)
+* Du hast einen lokalen Clone vom Fork [Hilfe](cheat-sheet/cheat-sheet.md#0900)
 * Dein Arbeitsverzeichnis ist im lokalen Clone
 * Diese Anleitung kann in Firefox gesichtet werden: `firefox index.html`
 
@@ -56,23 +56,23 @@ Ablauf
 - Öffne dieses Dokument in Firefox mit `firefox index.html`,
   damit Du direkten Zugriff auf die "cheat sheets" bekommen kannst
   (Chrome geht nicht, Browsen via Github o.ä. geht nicht)
-- Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind [Wie?](cheat-sheet/cheat-sheet.md#1010)
-- Visualisiere die Situation [Wie?](cheat-sheet/cheat-sheet.md#1020)
+- Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind [Hilfe](cheat-sheet/cheat-sheet.md#1010)
+- Visualisiere die Situation [Hilfe](cheat-sheet/cheat-sheet.md#1020)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
 - Kontrolliere, ob "experiment" und "origin/experiment" übereinstimmen!
 
 ### Durchführung
 
-- Branch "experiment" auschecken [Wie?](cheat-sheet/cheat-sheet.md#1110)
-- Branch "experiment" aktualisieren [Wie?](cheat-sheet/cheat-sheet.md#1120)
-- Rebase durchführen [Wie?](cheat-sheet/cheat-sheet.md#1130)
-- Sichten [Wie?](cheat-sheet/cheat-sheet.md#1140)
-- Ergebnis "veröffentlichen" [Wie?](cheat-sheet/cheat-sheet.md#1150)
+- Branch "experiment" auschecken [Hilfe](cheat-sheet/cheat-sheet.md#1110)
+- Branch "experiment" aktualisieren [Hilfe](cheat-sheet/cheat-sheet.md#1120)
+- Rebase durchführen [Hilfe](cheat-sheet/cheat-sheet.md#1130)
+- Sichten [Hilfe](cheat-sheet/cheat-sheet.md#1140)
+- Ergebnis "veröffentlichen" [Hilfe](cheat-sheet/cheat-sheet.md#1150)
 
 Nachkontrolle
 -------------
 
-- Visualisiere die Situation [Wie?](cheat-sheet/cheat-sheet.md#1210)
+- Visualisiere die Situation [Hilfe](cheat-sheet/cheat-sheet.md#1210)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
 - Kontrolliere, ob "experiment" und "origin/experiment" übereinstimmen!
 - Vergleiche Dein Bild strukturell mit [images/final.png](images/final.png)
