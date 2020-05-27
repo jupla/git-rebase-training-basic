@@ -23,7 +23,7 @@ Visualisiere die Situation
 $ gitg master origin/master experiment origin/experiment
 ```
 
-![images/start.png](images/start.png)
+![images/start.png](../images/start.png)
 
 ### Durchführung
 
