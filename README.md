@@ -48,7 +48,7 @@ Ablauf
 
 ### Vorbereitungen
 
-- Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind: `git fetch --all -p`
+- Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind [Wie?](cheat-sheet/cheat-sheet.md#0010)
 - Visualisiere die Situation mit `gitg master origin/master experiment origin/experiment`
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
 - Kontrolliere, ob "experiment" und "origin/experiment" übereinstimmen!

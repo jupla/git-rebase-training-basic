@@ -1,0 +1,14 @@
+Cheat-Sheet
+===========
+
+Vorbereitungen
+--------------
+
+### 0010
+
+Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind!
+
+```
+$ git fetch --all -p
+Fordere an von origin
+```
