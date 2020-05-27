@@ -56,23 +56,23 @@ Ablauf
 - Öffne dieses Dokument in Firefox mit `firefox index.html`,
   damit Du direkten Zugriff auf die "cheat sheets" bekommen kannst
   (Chrome geht nicht, Browsen via Github o.ä. geht nicht)
-- Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind [Wie?](cheat-sheet/cheat-sheet.md#0010)
-- Visualisiere die Situation [Wie?](cheat-sheet/cheat-sheet.md#0020)
+- Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind [Wie?](cheat-sheet/cheat-sheet.md#1010)
+- Visualisiere die Situation [Wie?](cheat-sheet/cheat-sheet.md#1020)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
 - Kontrolliere, ob "experiment" und "origin/experiment" übereinstimmen!
 
 ### Durchführung
 
-- Branch "experiment" auschecken [Wie?](cheat-sheet/cheat-sheet.md#0110)
-- Branch "experiment" aktualisieren [Wie?](cheat-sheet/cheat-sheet.md#0120)
-- Rebase durchführen [Wie?](cheat-sheet/cheat-sheet.md#0130)
-- Sichten [Wie?](cheat-sheet/cheat-sheet.md#0140)
-- Ergebnis "veröffentlichen" [Wie?](cheat-sheet/cheat-sheet.md#0150)
+- Branch "experiment" auschecken [Wie?](cheat-sheet/cheat-sheet.md#1110)
+- Branch "experiment" aktualisieren [Wie?](cheat-sheet/cheat-sheet.md#1120)
+- Rebase durchführen [Wie?](cheat-sheet/cheat-sheet.md#1130)
+- Sichten [Wie?](cheat-sheet/cheat-sheet.md#1140)
+- Ergebnis "veröffentlichen" [Wie?](cheat-sheet/cheat-sheet.md#1150)
 
 Nachkontrolle
 -------------
 
-- Visualisiere die Situation [Wie?](cheat-sheet/cheat-sheet.md#0210)
+- Visualisiere die Situation [Wie?](cheat-sheet/cheat-sheet.md#1210)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
 - Kontrolliere, ob "experiment" und "origin/experiment" übereinstimmen!
 - Vergleiche Dein Bild strukturell mit [images/final.png](images/final.png)
