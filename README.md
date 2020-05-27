@@ -16,6 +16,9 @@ Voraussetzungen
 
 * Gitg ist installiert (`sudo apt-get install gitg`)
 
+* Fork von diesem Repo ist angelegt, Arbeit erfolgt nur an
+  diesem Fork
+
 Ausgangsituation
 ----------------
 
@@ -23,12 +26,27 @@ Ausgangsituation
 
 - Es gibt einen Master-Branch
 - ... und auch den Branch "experiment"
-- "experiment" wurde irgendwann in der Vergangenheit erzeugt
+- "experiment" wurde irgendwann in der Vergangenheit erzeugt,
+  er zweigt in der Vergangenheit vom Master-Branch ab
 
 Zielbild
 --------
 
 ![Zielsituation](images/final.png)
+
+- Es gibt einen Master-Branch
+- ... und auch den Branch "experiment"
+- Der Abzweigezeitpunkt von "expriment" ist verschoben
+  auf den aktuellen Master-Branch
+
+Ablauf
+------
+
+Abschluß
+--------
+
+Nach Abschluß des Trainings bitte die URL zu dem bearbeiteten
+Fork per Email schicken an "dp-training@daemons-point.com"!
 
 dp-git-rebase-test
 ===============
