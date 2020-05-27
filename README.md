@@ -49,24 +49,22 @@ Ablauf
 ### Vorbereitungen
 
 - Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind [Wie?](cheat-sheet/cheat-sheet.md#0010)
-- Visualisiere die Situation mit `gitg master origin/master experiment origin/experiment`
+- Visualisiere die Situation [Wie?](cheat-sheet/cheat-sheet.md#0020)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
 - Kontrolliere, ob "experiment" und "origin/experiment" übereinstimmen!
 
 ### Durchführung
 
-- Branch "experiment" auschecken
-- Branch "experiment" aktualisieren: `git pull --rebase`
-- Rebase durchführen: `git rebase master`
-- Sichten:
-    - `gitg master experiment`
-    - `git status`
-- Ergebnis "veröffentlichen": `git push ...`
+- Branch "experiment" auschecken [Wie?](cheat-sheet/cheat-sheet.md#0110)
+- Branch "experiment" aktualisieren [Wie?](cheat-sheet/cheat-sheet.md#0120)
+- Rebase durchführen [Wie?](cheat-sheet/cheat-sheet.md#0130)
+- Sichten [Wie?](cheat-sheet/cheat-sheet.md#0140)
+- Ergebnis "veröffentlichen" [Wie?](cheat-sheet/cheat-sheet.md#0150)
 
 Nachkontrolle
 -------------
 
-- Visualisiere die Situation mit `gitg master origin/master experiment origin/experiment`
+- Visualisiere die Situation  [Wie?](cheat-sheet/cheat-sheet.md#0210)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
 - Kontrolliere, ob "experiment" und "origin/experiment" übereinstimmen!
 - Vergleiche Dein Bild strukturell mit [images/final.png](images/final.png)
