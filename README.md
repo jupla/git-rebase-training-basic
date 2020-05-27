@@ -8,16 +8,19 @@ Git-Rebase sammelst.
 Voraussetzungen
 ---------------
 
+Seitens der "Infrastruktur" gibt es diese Voraussetzungen:
+
 * Git-Kommandozeilen-Tools sind installiert
-
 * Gitg ist installiert (`sudo apt-get install gitg`)
-
 * Fork von diesem Repo ist angelegt, Arbeit erfolgt nur an
   diesem Fork
-
 * Du hast einen lokalen Clone vom Fork (`git clone (fork-url)` mit "(fork-url)" von oben rechts)
-
 * Dein Arbeitsverzeichnis ist im lokalen Clone
+
+Seitens der Kenntnisse:
+
+* Erfahrung mit der Kommandozeile
+* Erfahrung mit Git (clone, branch, pull/push, commit, ...)
 
 Ausgangsituation
 ----------------
@@ -28,7 +31,7 @@ Ausgangsituation
 - ... und auch den Branch "experiment"
 - "experiment" wurde irgendwann in der Vergangenheit erzeugt,
   er zweigt in der Vergangenheit vom Master-Branch ab
-- Die Ausgangssituation kannst Du visualisieren mit `gitg master origin/experiment`
+- Die Ausgangssituation kannst Du visualisieren mit `gitg origin/master origin/experiment`
 
 Zielbild
 --------
@@ -42,6 +45,23 @@ Zielbild
 
 Ablauf
 ------
+
+### Vorbereitungen
+
+- Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind: `git fetch --all -p`
+- Visualisiere die Situation mit `gitg master origin/master experiment origin/experiment`
+- Kontrolliere, ob "master" und "origin/master" übereinstimmen!
+- Kontrolliere, ob "experiment" und "origin/experiment" übereinstimmen!
+
+### Durchführung
+
+- Branch "experiment" auschecken
+- Branch "experiment" aktualisieren: `git pull --rebase`
+- Rebase durchführen: `git rebase master`
+- Sichten:
+    - `gitg master experiment`
+    - `git status`
+- Ergebnis "veröffentlichen": `git push ...`
 
 Nachkontrolle
 -------------
