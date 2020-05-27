@@ -1,6 +1,25 @@
 Cheat-Sheet
 ===========
 
+Voraussetzungen
+---------------
+
+### 0900
+
+Gitg installieren
+
+```
+$ sudo apt-get install gitg
+```
+
+### 0910
+
+Lokaler Clone - URL kommt von oben rechts!
+
+```
+$ git clone git@github.com:(deinFork)/git-rebase-training-basic.git
+```
+
 Ablauf
 ------
 
