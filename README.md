@@ -5,6 +5,8 @@ Dies ist das grundlegende Training zu Git-Rebase.
 Es dient dazu, dass Du Erfahrungen im Umgang mit
 Git-Rebase sammelst.
 
+Zeitaufwand: 10 Minuten
+
 Das Training ist intern und extern verfügbar.
 Die externe URL ist: [github:git-rebase-training-basic](https://github.com/70435-training/git-rebase-training-basic).
 
